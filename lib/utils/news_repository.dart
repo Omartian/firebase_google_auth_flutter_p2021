@@ -26,7 +26,7 @@ class NewsRepository {
       queryParameters: {
         "country": "mx",
         "category": "sports",
-        "apiKey": apiKey
+        "apiKey": "c7e1facf4e5a4df4b3beafd4f402d4ba"
       },
     );
     // TODO: completar request y deserializacion
